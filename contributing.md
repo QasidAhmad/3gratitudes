@@ -1,30 +1,37 @@
-### required contriubtions
+<h1> suggested improvements required </h1>
 
-Througout app:
-Add offline mode
-Make mobile friendly
-Make app look good (use CSS)
-If user is already logged in on another device the app will not work. to at least notify the user of the cause of the problem or resolve it. 
+<h2> Througout app </h2>
 
-Sign up/ login page:
-login with gmail /facebook  
-Link to source code on github (Easy Pick)
-If there is an error with login credentials (wrong password, invalid email - display this error to user (currently error is only visible in browsers console)
+<ul>
+<li>Add offline mode;</li>
+<li>Make mobile friendly;</li> 
+<li>Make app look good (use CSS);</li>
+<li>If user is already logged in on another device the app will not work. to at least notify the user of the cause of the problem or resolve it.</li>
+</ul>
 
-Submission page:
-Method for submitting less than 3 gratitudes (e.g. 2 for now, 1 later)
-Option for adding photo/or video to gratitude
-Suggestions for ideas of things to be grateful for (on request)
-Make submitted user data private - so I cant see it in firebase console by prepending it with a common pattern e.g. *********** 
-If user looses connection or closes browser after entering submission before pressing the submission button, all this data is lot. To fix this so the user can just carry on where they left off. 
+<h2> Sign up/ login page </h2>
+<ul>
+<li>login with gmail /facebook;</li>
+<li>Link to source code on github <mark>(Easy Pick)</mark> </li>
+<li>If there is an error with login credentials (wrong password, invalid email - display this error to user (currently error is only visible in browsers console)</li>
+</ul>
 
+<h2> Submission page</h2>
+<ul>
+<li>Method for submitting less than 3 gratitudes (e.g. 2 for now, 1 later) </li>
+<li>Option for adding photo/or video to gratitude</li>
+<li>Suggestions for ideas of things to be grateful for (on request)</li>
+<li>Make submitted user data private - so I cant see it in firebase console by prepending it with a common pattern e.g. *********** </li>
+<li>If user looses connection or closes browser after entering submission before pressing the submission button, all this data is lot. To fix this so the user can just carry on where they left off. </li>
+</ul>
 
-Retrieve all gratitudes page:
-Method for retrieving data without ******* (see above)
-Method of initially limiting gratitudes to however many can fit on users screen (or sensible number e.g. 50) then extend as scroll down or on request rather than unlimited
-Method for exporting data in useful format (e.g. json object or excel spreadsheet/ CSV)
-Option for cool visualisations 
-Option for adding photo/video to existing gratitudes
-
+<h2>Retrieve all gratitudes page</h2>
+<ul>
+<li>Method for retrieving data without ******* (see above)</li>
+<li>Method of initially limiting gratitudes to however many can fit on users screen (or sensible number e.g. 50) then extend as scroll down or on request rather than unlimited</li>
+<li>Method for exporting data in useful format (e.g. json object or excel spreadsheet/ CSV)</li>
+<li>Option for cool visualisations </li>
+<li>Option for adding photo/video to existing gratitudes</li>
+</ul>
 
 
