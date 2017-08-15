@@ -24,6 +24,7 @@
 <li>Suggestions for ideas of things to be grateful for (on request)</li>
 <li>Make submitted user data private - so I cant see it in firebase console by prepending it with a common pattern e.g. *********** </li>
 <li>If user looses connection or closes browser after entering submission before pressing the submission button, all this data is lot. To fix this so the user can just carry on where they left off. </li>
+<li> Firebase does not accept invalid characters e.g. '/' so if this is entered in the input field, pressing the 'Save' button will not respond. An error should be displayed to explain this to the user if they try to submit invalid characters. </li>
 </ul>
 
 <h2>Retrieve all gratitudes page</h2>
