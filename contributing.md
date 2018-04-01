@@ -5,7 +5,7 @@
 <ul>
 <li>Add offline mode;</li>
 <li>Make mobile friendly;</li> 
-<li>Make app look good (use CSS);</li>
+<li>Make app look good;</li>
 <li>If user is already logged in on another device the app will not work. to at least notify the user of the cause of the problem or resolve it.</li>
 </ul>
 
