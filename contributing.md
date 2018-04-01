@@ -3,7 +3,6 @@
 <h2> Througout app </h2>
 
 <ul>
-<li> check for security loopholes </li>
 <li>Add offline mode;</li>
 <li>Make mobile friendly;</li> 
 <li>Make app look good (use CSS);</li>
